@@ -126,7 +126,7 @@
 
 .picture{
     width: 100%;
-    object-fit: contain;
+    object-fit: cover;
     object-position: left 20%;
     border-radius: 12px;
 }
